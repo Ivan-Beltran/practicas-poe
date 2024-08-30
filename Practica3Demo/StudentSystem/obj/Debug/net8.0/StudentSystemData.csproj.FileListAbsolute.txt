@@ -1,0 +1,11 @@
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\practica3\Practica3Demo\StudentSystem\bin\Debug\net8.0\StudentSystemData.deps.json
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\practica3\Practica3Demo\StudentSystem\bin\Debug\net8.0\StudentSystemData.dll
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\practica3\Practica3Demo\StudentSystem\bin\Debug\net8.0\StudentSystemData.pdb
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\practica3\Practica3Demo\StudentSystem\obj\Debug\net8.0\StudentSystemData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\practica3\Practica3Demo\StudentSystem\obj\Debug\net8.0\StudentSystemData.AssemblyInfoInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\practica3\Practica3Demo\StudentSystem\obj\Debug\net8.0\StudentSystemData.AssemblyInfo.cs
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\practica3\Practica3Demo\StudentSystem\obj\Debug\net8.0\StudentSystemData.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\practica3\Practica3Demo\StudentSystem\obj\Debug\net8.0\StudentSystemData.dll
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\practica3\Practica3Demo\StudentSystem\obj\Debug\net8.0\refint\StudentSystemData.dll
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\practica3\Practica3Demo\StudentSystem\obj\Debug\net8.0\StudentSystemData.pdb
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\practica3\Practica3Demo\StudentSystem\obj\Debug\net8.0\ref\StudentSystemData.dll

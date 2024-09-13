@@ -1,0 +1,16 @@
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\bin\Debug\net8.0-windows\Practica2UI.exe
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\bin\Debug\net8.0-windows\Practica2UI.deps.json
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\bin\Debug\net8.0-windows\Practica2UI.runtimeconfig.json
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\bin\Debug\net8.0-windows\Practica2UI.dll
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\bin\Debug\net8.0-windows\Practica2UI.pdb
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\obj\Debug\net8.0-windows\Practica2UI.encapsulamineto.EncapsulamientoForm.resources
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\obj\Debug\net8.0-windows\Practica2UI.csproj.GenerateResource.cache
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\obj\Debug\net8.0-windows\Practica2UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\obj\Debug\net8.0-windows\Practica2UI.AssemblyInfoInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\obj\Debug\net8.0-windows\Practica2UI.AssemblyInfo.cs
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\obj\Debug\net8.0-windows\Practica2UI.csproj.CoreCompileInputs.cache
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\obj\Debug\net8.0-windows\Practica2UI.dll
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\obj\Debug\net8.0-windows\refint\Practica2UI.dll
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\obj\Debug\net8.0-windows\Practica2UI.pdb
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\obj\Debug\net8.0-windows\Practica2UI.genruntimeconfig.cache
+C:\Users\ivanb\OneDrive\Escritorio\cliclo4\poe\practicas\Practica2App\Practica2UI\obj\Debug\net8.0-windows\ref\Practica2UI.dll
